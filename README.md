@@ -1435,10 +1435,5 @@ If you want to include math inside of a presentation written in Markdown you nee
 
 MIT licensed
 
-<<<<<<< HEAD
-Copyright (C) 2017 Hakim El Hattab, http://hakim.se
-.LAG (last updtate: 20180617) @boycaught
-
-=======
-Copyright (C) 2019 Hakim El Hattab, http://hakim.se
->>>>>>> 33bed47daca3f08c396215415e6ece005970734a
+(C) 2017 Hakim El Hattab, http://hakim.se
+.LAG (last update: 20190425) @boycaught
