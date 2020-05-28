@@ -27,4 +27,4 @@ MIT licensed
 
 Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se
 
-##.LAG (last update: 20200528) @boycaught
+*_.LAG (last update: 20200528) @boycaught_*
